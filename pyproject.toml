@@ -26,6 +26,6 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/briansimpo/pysdrradio"
-"Bug Tracker" = "https://github.com/briansimpo/pysdrradio/issues"
+"Homepage" = "https://github.com/briansimpo/dolphinido"
+"Bug Tracker" = "https://github.com/briansimpo/dolphinido/issues"
 
